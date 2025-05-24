@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+mysqlclient
+mysql-connector-python
+gunicorn
+Flask-Cors
+pytz
